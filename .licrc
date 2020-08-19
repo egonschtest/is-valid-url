@@ -7,3 +7,4 @@ accepted=["MIT", "MSC", "BSD"]
 [dependencies]
 # this will allow users to flag some dependencies so that privateer will not check for their license.
 ignored=["amdefine", "ignored_dep2"]
+always_run=true
