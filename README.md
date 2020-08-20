@@ -16,6 +16,3 @@ It exposes a `isUrl` function that will let you know if the argument is a URL or
 
 
 
-
-
-
